@@ -1,2 +1,2 @@
 # WTSM-Plugin
-A plugin for the ISZ-ModMenu based on the "Wobbly-Tooth-Save-Manager" to backup your ISZ-2021 SaveData.
+- A simple Plugin used to Backup & Inject ISZ-2021 SaveData on Steam/PC.
