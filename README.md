@@ -9,3 +9,7 @@
 
 # Notice:
 - The **SaveManagerPlugin.I2plg** currently does not like being renamed, We're currently working to resolve this.
+
+# Video Guide: 
+
+<embed>https://github.com/ISZ-Hacker-Organization/WTSM-Plugin/assets/78656905/f2e259ae-7749-4a7c-9653-55063e416b23</embed>
