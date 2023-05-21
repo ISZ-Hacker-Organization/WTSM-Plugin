@@ -1,9 +1,0 @@
-ÿþ
-ISZ-Hacker-Organization
-Backup Save-Data
-Inject Save-Data
-Backed-Up ISZ-2021 Save-Data.
-Injected Backed-Up ISZ-2021 Save-Data.
-mkdir "%CD%\_dat\_SaveBackup"
-xcopy "%LOCALAPPDATA%\ISZ\Saved\SaveGames" "%CD%\_dat\_SaveBackup" /y /s
-xcopy "%CD%\_dat\_SaveBackup" "%LOCALAPPDATA%\ISZ\Saved\SaveGames" /y /s
