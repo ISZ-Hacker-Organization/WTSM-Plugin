@@ -8,7 +8,7 @@
 - You Have Now Installed the Plugin!
 
 # Notice:
-- This plugin is Officially partnered with **[@Cracko298's]()** for The [ISZ-ModMenu]().
+- This plugin is Officially partnered with **[@Cracko298]()** for The [ISZ-ModMenu]().
 
 # Images:
 ![image](https://github.com/ISZ-Hacker-Organization/WTSM-Plugin/assets/131509058/1dedf84f-f790-4f6c-a21c-267348e28dab)
