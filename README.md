@@ -12,5 +12,3 @@
 - This is not a problem with WTSM-Plugin, rather a problem with The **ISZ-ModMenu**.
 
 # Video Guide: 
-
-<embed>https://github.com/ISZ-Hacker-Organization/WTSM-Plugin/assets/78656905/f2e259ae-7749-4a7c-9653-55063e416b23</embed>
