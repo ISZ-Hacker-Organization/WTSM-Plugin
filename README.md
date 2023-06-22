@@ -3,7 +3,7 @@
 - Made for use with The [ISZ-ModMenu](https://github.com/ISZ-Hacker-Organization/ISZ-ModMenu).
 
 # Installation Guide:
-- After Downloading & Extracting The [ISZ-ModMenu v1.7](https://github.com/ISZ-Hacker-Organization/ISZ-ModMenu), Download our [WTSM.py](https://github.com/ISZ-Hacker-Organization/WTSM-Plugin/releases/download/v1.0-release-1/SaveManagerPlugin.I2plg) Plugin.
+- After Downloading & Extracting The [ISZ-ModMenu v1.7](https://github.com/ISZ-Hacker-Organization/ISZ-ModMenu), Download our [WTSM.py](https://github.com/ISZ-Hacker-Organization/WTSM-Plugin/releases/download/v2.0-release-1/WTSM.py) Plugin.
 - Drag & Drop the **WTSM.py** into ***_dat > _MMplugins***.
 - You Have Now Installed the Plugin!
 
