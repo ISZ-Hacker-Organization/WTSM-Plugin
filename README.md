@@ -8,7 +8,7 @@
 - You Have Now Installed the Plugin!
 
 # Notice:
-- This plugin is Officially partnered with **[@Cracko298]()** for The [ISZ-ModMenu](https://github.com/ISZ-Hacker-Organization/ISZ-ModMenu/releases/download/v1.7.0-alpha-1/ISZ-ModMenu.zip).
+- This plugin is Officially partnered with **[@Cracko298](https://github.com/Cracko298)** for The [ISZ-ModMenu](https://github.com/ISZ-Hacker-Organization/ISZ-ModMenu/releases/download/v1.7.0-alpha-1/ISZ-ModMenu.zip).
 
 # Legacy Downloads:
 - **[SaveManagerPlugin.I2plg](https://github.com/Cracko298) (Works with ISZ-ModMenu v1.7).**
