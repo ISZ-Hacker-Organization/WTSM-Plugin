@@ -10,5 +10,3 @@
 # Notice:
 - The **SaveManagerPlugin.I2plg** currently does not like being renamed, We're currently working to resolve this.
 - This is not a problem with WTSM-Plugin, rather a problem with The **ISZ-ModMenu**.
-
-# Video Guide: 
