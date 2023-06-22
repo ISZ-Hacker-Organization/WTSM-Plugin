@@ -10,3 +10,8 @@
 # Notice:
 - The **SaveManagerPlugin.I2plg** currently does not like being renamed, We're currently working to resolve this.
 - This is not a problem with WTSM-Plugin, rather a problem with The **ISZ-ModMenu**.
+
+# Images:
+![image](https://github.com/ISZ-Hacker-Organization/WTSM-Plugin/assets/131509058/1dedf84f-f790-4f6c-a21c-267348e28dab)
+![image](https://github.com/ISZ-Hacker-Organization/WTSM-Plugin/assets/131509058/1b2c3c51-99b9-4b53-8376-b36e9f3dcc0b)
+![image](https://github.com/ISZ-Hacker-Organization/WTSM-Plugin/assets/131509058/f89010dc-f899-4df4-bfc3-55ef8c6c8aa8)
